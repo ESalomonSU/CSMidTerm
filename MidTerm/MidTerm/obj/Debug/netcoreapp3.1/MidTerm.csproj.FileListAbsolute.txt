@@ -1,0 +1,12 @@
+/Users/salom11/Desktop/MidTerm/MidTerm/MidTerm/obj/Debug/netcoreapp3.1/MidTerm.csprojAssemblyReference.cache
+/Users/salom11/Desktop/MidTerm/MidTerm/MidTerm/obj/Debug/netcoreapp3.1/MidTerm.AssemblyInfoInputs.cache
+/Users/salom11/Desktop/MidTerm/MidTerm/MidTerm/obj/Debug/netcoreapp3.1/MidTerm.AssemblyInfo.cs
+/Users/salom11/Desktop/MidTerm/MidTerm/MidTerm/obj/Debug/netcoreapp3.1/MidTerm.csproj.CoreCompileInputs.cache
+/Users/salom11/Desktop/MidTerm/MidTerm/MidTerm/bin/Debug/netcoreapp3.1/MidTerm.deps.json
+/Users/salom11/Desktop/MidTerm/MidTerm/MidTerm/bin/Debug/netcoreapp3.1/MidTerm.runtimeconfig.json
+/Users/salom11/Desktop/MidTerm/MidTerm/MidTerm/bin/Debug/netcoreapp3.1/MidTerm.runtimeconfig.dev.json
+/Users/salom11/Desktop/MidTerm/MidTerm/MidTerm/bin/Debug/netcoreapp3.1/MidTerm.dll
+/Users/salom11/Desktop/MidTerm/MidTerm/MidTerm/bin/Debug/netcoreapp3.1/MidTerm.pdb
+/Users/salom11/Desktop/MidTerm/MidTerm/MidTerm/obj/Debug/netcoreapp3.1/MidTerm.dll
+/Users/salom11/Desktop/MidTerm/MidTerm/MidTerm/obj/Debug/netcoreapp3.1/MidTerm.pdb
+/Users/salom11/Desktop/MidTerm/MidTerm/MidTerm/obj/Debug/netcoreapp3.1/MidTerm.genruntimeconfig.cache
